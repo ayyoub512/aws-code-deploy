@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-sudo systemctl restart usr/sbin/httpd  
+sudo systemctl restart httpd
